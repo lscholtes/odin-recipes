@@ -1,0 +1,37 @@
+.recipe-link {
+    background-color: yellow;
+    border: 5px;
+    line-height: 30px;
+    border-style: outset;
+    box-shadow: 10px;
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+.healthy-recipe {
+    background-color: green;
+    color: yellow;
+}
+
+.recipe-img {
+    height: 300px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.list {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: darkslategray;
+}
+
+.ingredients {
+    background-color: darkgoldenrod;
+}
+
+.steps {
+    background-color: lightsalmon;
+}
